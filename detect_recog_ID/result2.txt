@@ -1,0 +1,825 @@
+Total file name is: 33
+
+Processing test_images\01.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 10.112
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 500
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 359
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 313
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 45534
+
+Processing test_images\02.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 42.7852
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 435
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 350
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 298
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 36880
+
+Processing test_images\03.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 129.495
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 406
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 383
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 328
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 36456
+
+Processing test_images\04.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 226.655
+Detected face in cmnd
+Detected quoc huy
+angle 2 : -4.57392
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 3
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 444
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 347
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 319
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 51099
+
+Processing test_images\05.jpg ...
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 1
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 398
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 341
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 299
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 29877
+
+Processing test_images\06.jpg ...
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 1
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 467
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 330
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 320
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 23710
+
+Processing test_images\07.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 190.349
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 395
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 350
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 308
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 36038
+
+Processing test_images\08.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 153.02
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 416
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 350
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 295
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 50252
+
+Processing test_images\09.jpg ...
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 1
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 520
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 322
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 291
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 23834
+
+Processing test_images\10.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : -23.925
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 496
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 332
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 309
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 48961
+
+Processing test_images\11.jpg ...
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 1
+Khong nhan dien duoc 'So'
+Su dung phuong phap 2...
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 347
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 358
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 322
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 30945
+
+Processing test_images\12.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 32.7352
+Detected face in cmnd
+Detected quoc huy
+angle 2 : 2.77917
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 3
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 338
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 363
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 341
+Empty page!!
+Time processed is: 47591
+
+Processing test_images\13.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 11.5048
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 386
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 388
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 313
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 40943
+
+Processing test_images\14.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 214.479
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Khong nhan dien duoc 'So'
+Su dung phuong phap 2...
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 362
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 350
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 309
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 29147
+
+Processing test_images\15.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 105.35
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 358
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 341
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 305
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 42003
+
+Processing test_images\16.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : -26.7961
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Khong nhan dien duoc 'So'
+Su dung phuong phap 2...
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 380
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 422
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 342
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 34455
+
+Processing test_images\17.jpg ...
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 1
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 536
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 391
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 306
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 23365
+
+Processing test_images\18.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : -33.5663
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 444
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 397
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 319
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 53435
+
+Processing test_images\19.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 35.9605
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 419
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 338
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 313
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 36029
+
+Processing test_images\20.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 3.90049
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 548
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 327
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 344
+Time processed is: 58290
+
+Processing test_images\21.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 10.9013
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Khong nhan dien duoc 'So'
+Su dung phuong phap 2...
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 364
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 339
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 311
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 39219
+
+Processing test_images\22.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : -38.6598
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 404
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 324
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 306
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 36728
+
+Processing test_images\23.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : -27.8143
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 459
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 322
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 292
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 38516
+
+Processing test_images\24.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 143.858
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 352
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 323
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 294
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 45171
+
+Processing test_images\25.jpg ...
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 1
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 533
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 296
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 296
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 30879
+
+Processing test_images\26.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : -49.8208
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 384
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 330
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 313
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 36524
+
+Processing test_images\27.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 20.2727
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 397
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 358
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 305
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 36572
+
+Processing test_images\28.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 32.1482
+Detected face in cmnd
+Detected quoc huy
+angle 2 : 8.24071
+Detected face in cmnd
+Detected quoc huy
+angle 3 : 4.67742
+Detected face in cmnd
+Detected quoc huy
+angle 4 : -3.15072
+Detected face in cmnd
+Detected quoc huy
+angle 5 : -16.9634
+Khong nhan dien duoc khuon mat va quoc huy
+Chuyen qua anh tiep theo ...
+Time processed is: 95833
+
+Processing test_images\29.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 264.289
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 591
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 381
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 305
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 61471
+
+Processing test_images\30.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : -66.4477
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Khong nhan dien duoc 'So'
+Su dung phuong phap 2...
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 370
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 409
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 331
+Time processed is: 58720
+
+Processing test_images\31.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : -50.2375
+Detected face in cmnd
+Detected quoc huy
+angle 2 : 2.1211
+Detected face in cmnd
+Detected quoc huy
+angle 3 : -2.75911
+Detected face in cmnd
+Detected quoc huy
+angle 4 : 2.42927
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 5
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 530
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 321
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 298
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 148383
+
+Processing test_images\32.jpg ...
+Detected face in cmnd
+Detected quoc huy
+angle 1 : 241.97
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 2
+Khong nhan dien duoc 'So'
+Su dung phuong phap 2...
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 377
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 398
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 356
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 56629
+
+Processing test_images\33.jpg ...
+Detected face in cmnd
+Detected quoc huy
+So lan detect: 1
+Detected 'So'
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 491
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 347
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 286
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Error in pixWriteMemPng: function not present
+Info in pixWriteMemPnm: work-around: writing to a temp file
+Info in fopenReadFromMemory: work-around: writing to a temp file
+Time processed is: 23946

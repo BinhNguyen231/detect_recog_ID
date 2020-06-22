@@ -1,0 +1,201 @@
+result/Tessseract_id_01.jpg : 174506425
+result/Tessseract_name_01.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_01.jpg :  23011998
+result/Tessseract_id_02.jpg : 174506425
+result/Tessseract_name_02.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_02.jpg : 23-01-1998
+result/Tessseract_id_03.jpg : 174506425
+result/Tessseract_name_03.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_03.jpg : - 23-01-1998
+result/Tessseract_id_04.jpg : 174506425
+result/Tessseract_name_04.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_04.jpg : 23-01-1998
+result/Tessseract_id_05.jpg : 174506425
+result/Tessseract_name_05.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_05.jpg :  2301-1998
+result/Tessseract_id_06.jpg : 174506425
+result/Tessseract_name_06.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_06.jpg : 22-01-1998
+result/Tessseract_id_07.jpg : 174506425
+result/Tessseract_name_07.jpg : NGUYỄN NGỌC BÌNL
+result/Tessseract_dob_07.jpg : 23-01-1998
+result/Tessseract_id_08.jpg : 17450642
+result/Tessseract_name_08.jpg : NGUYỄN NGỌC HA L
+result/Tessseract_dob_08.jpg : 23-01-1998
+result/Tessseract_id_09.jpg : 174506425
+result/Tessseract_name_09.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_09.jpg : 23-01-1998
+result/Tessseract_id_10.jpg : 174506425
+result/Tessseract_name_10.jpg : NGUYÊN NGỌC BÌNL
+result/Tessseract_dob_10.jpg : 23-01-1998
+result/Tessseract_id_11.jpg : 174506425
+result/Tessseract_name_11.jpg : NGUYÊN NGỌ BINH
+result/Tessseract_dob_11.jpg : 23-01-1998
+result/Tessseract_id_12.jpg : 174506425
+result/Tessseract_name_12.jpg : NGUYÊN NGỌC BÌNII
+result/Tessseract_dob_12.jpg : 
+result/Tessseract_id_13.jpg : 174506425
+result/Tessseract_name_13.jpg : NGUYỄN NGỌC BÌNI
+result/Tessseract_dob_13.jpg :   2301-1998
+result/Tessseract_id_14.jpg : 174506425
+result/Tessseract_name_14.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_14.jpg : 23-01-1998
+result/Tessseract_id_15.jpg : 174506425
+result/Tessseract_name_15.jpg : NGUYÊN NGỌC BÌN¡
+result/Tessseract_dob_15.jpg : 23-01-1998
+result/Tessseract_id_16.jpg : 174506425
+result/Tessseract_name_16.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_16.jpg : 23-01-1998
+result/Tessseract_id_17.jpg : 174506425
+result/Tessseract_name_17.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_17.jpg : 23-01-1998
+result/Tessseract_id_18.jpg : 174506425
+result/Tessseract_name_18.jpg : NGUYỆN NGỌC BÌNEL
+result/Tessseract_dob_18.jpg : 23-01-1998
+result/Tessseract_id_19.jpg : 174506425
+result/Tessseract_name_19.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_19.jpg : 23-01-1998
+result/Tessseract_id_20.jpg : 174506425
+result/Tessseract_name_20.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_20.jpg : 
+result/Tessseract_id_21.jpg : 174506425
+result/Tessseract_name_21.jpg : NGUYỄN NGỌC BINH
+result/Tessseract_dob_21.jpg : 23-01-1998
+result/Tessseract_id_22.jpg : 174506425
+result/Tessseract_name_22.jpg : NGUYÊN NGỌC BINH
+result/Tessseract_dob_22.jpg : 23-01-1998
+result/Tessseract_id_23.jpg : 174506425
+result/Tessseract_name_23.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_23.jpg : 23-01-1998
+result/Tessseract_id_24.jpg : 1745064
+result/Tessseract_name_24.jpg : NGUYỄN NGỌC BÌNI
+result/Tessseract_dob_24.jpg : 23-01-1998
+result/Tessseract_id_25.jpg : 174506425
+result/Tessseract_name_25.jpg : NGUYÊN Q BÌNH
+result/Tessseract_dob_25.jpg : 23-01-1998
+result/Tessseract_id_26.jpg : 174506425
+result/Tessseract_name_26.jpg : XYEN NGỌC BÌNH
+result/Tessseract_dob_26.jpg : 23-01-1998
+result/Tessseract_id_27.jpg : 174506425
+result/Tessseract_name_27.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_27.jpg :  23-01-1998
+result/Tessseract_id_29.jpg : 174506425
+result/Tessseract_name_29.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_29.jpg : 23-01-1998
+result/Tessseract_id_30.jpg : 174506425
+result/Tessseract_name_30.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_30.jpg : 
+result/Tessseract_id_31.jpg : 174506425
+result/Tessseract_name_31.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_31.jpg : 23-01-1998
+result/Tessseract_id_32.jpg : 174506425
+result/Tessseract_name_32.jpg :  NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_32.jpg :  23-01-1998
+result/Tessseract_id_33.jpg : 174506425
+result/Tessseract_name_33.jpg : NGUYÊN NGỌỢC BÌNH
+result/Tessseract_dob_33.jpg :  23-01-1998
+result/Tessseract_id_01.jpg : 174506425
+result/Tessseract_name_01.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_01.jpg :  23011998
+result/Tessseract_id_02.jpg : 174506425
+result/Tessseract_name_02.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_02.jpg : 23-01-1998
+result/Tessseract_id_03.jpg : 174506425
+result/Tessseract_name_03.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_03.jpg : - 23-01-1998
+result/Tessseract_id_04.jpg : 174506425
+result/Tessseract_name_04.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_04.jpg : 23-01-1998
+result/Tessseract_id_05.jpg : 174506425
+result/Tessseract_name_05.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_05.jpg :  2301-1998
+result/Tessseract_id_06.jpg : 174506425
+result/Tessseract_name_06.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_06.jpg : 22-01-1998
+result/Tessseract_id_07.jpg : 174506425
+result/Tessseract_name_07.jpg : NGUYỄN NGỌC BÌNL
+result/Tessseract_dob_07.jpg : 23-01-1998
+result/Tessseract_id_08.jpg : 17450642
+result/Tessseract_name_08.jpg : NGUYỄN NGỌC HA L
+result/Tessseract_dob_08.jpg : 23-01-1998
+result/Tessseract_id_09.jpg : 174506425
+result/Tessseract_name_09.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_09.jpg : 23-01-1998
+result/Tessseract_id_10.jpg : 174506425
+result/Tessseract_name_10.jpg : NGUYÊN NGỌC BÌNL
+result/Tessseract_dob_10.jpg : 23-01-1998
+result/Tessseract_id_11.jpg : 174506425
+result/Tessseract_name_11.jpg : NGUYÊN NGỌ BINH
+result/Tessseract_dob_11.jpg : 23-01-1998
+result/Tessseract_id_12.jpg : 174506425
+result/Tessseract_name_12.jpg : NGUYÊN NGỌC BÌNII
+result/Tessseract_dob_12.jpg : 
+result/Tessseract_id_13.jpg : 174506425
+result/Tessseract_name_13.jpg : NGUYỄN NGỌC BÌNI
+result/Tessseract_dob_13.jpg :   2301-1998
+result/Tessseract_id_14.jpg : 174506425
+result/Tessseract_name_14.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_14.jpg : 23-01-1998
+result/Tessseract_id_15.jpg : 174506425
+result/Tessseract_name_15.jpg : NGUYÊN NGỌC BÌN¡
+result/Tessseract_dob_15.jpg : 23-01-1998
+result/Tessseract_id_16.jpg : 174506425
+result/Tessseract_name_16.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_16.jpg : 23-01-1998
+result/Tessseract_id_17.jpg : 174506425
+result/Tessseract_name_17.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_17.jpg : 23-01-1998
+result/Tessseract_id_18.jpg : 174506425
+result/Tessseract_name_18.jpg : NGUYỆN NGỌC BÌNEL
+result/Tessseract_dob_18.jpg : 23-01-1998
+result/Tessseract_id_19.jpg : 174506425
+result/Tessseract_name_19.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_19.jpg : 23-01-1998
+result/Tessseract_id_20.jpg : 174506425
+result/Tessseract_name_20.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_20.jpg : 
+result/Tessseract_id_21.jpg : 174506425
+result/Tessseract_name_21.jpg : NGUYỄN NGỌC BINH
+result/Tessseract_dob_21.jpg : 23-01-1998
+result/Tessseract_id_01.jpg : 174506425
+result/Tessseract_name_01.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_01.jpg :  23011998
+result/Tessseract_id_02.jpg : 174506425
+result/Tessseract_name_02.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_02.jpg : 23-01-1998
+result/Tessseract_id_03.jpg : 174506425
+result/Tessseract_name_03.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_03.jpg : - 23-01-1998
+result/Tessseract_id_04.jpg : 174506425
+result/Tessseract_name_04.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_04.jpg : 23-01-1998
+result/Tessseract_id_05.jpg : 174506425
+result/Tessseract_name_05.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_05.jpg :  2301-1998
+result/Tessseract_id_06.jpg : 174506425
+result/Tessseract_name_06.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_06.jpg : 22-01-1998
+result/Tessseract_id_07.jpg : 174506425
+result/Tessseract_name_07.jpg : NGUYỄN NGỌC BÌNL
+result/Tessseract_dob_07.jpg : 23-01-1998
+result/Tessseract_id_08.jpg : 17450642
+result/Tessseract_name_08.jpg : NGUYỄN NGỌC HA L
+result/Tessseract_dob_08.jpg : 23-01-1998
+result/Tessseract_id_09.jpg : 174506425
+result/Tessseract_name_09.jpg : NGUYÊN NGỌC BÌNH
+result/Tessseract_dob_09.jpg : 23-01-1998
+result/Tessseract_id_10.jpg : 174506425
+result/Tessseract_name_10.jpg : NGUYÊN NGỌC BÌNL
+result/Tessseract_dob_10.jpg : 23-01-1998
+result/Tessseract_id_11.jpg : 174506425
+result/Tessseract_name_11.jpg : NGUYÊN NGỌ BINH
+result/Tessseract_dob_11.jpg : 23-01-1998
+result/Tessseract_id_12.jpg : 174506425
+result/Tessseract_name_12.jpg : NGUYÊN NGỌC BÌNII
+result/Tessseract_dob_12.jpg : 
+result/Tessseract_id_13.jpg : 174506425
+result/Tessseract_name_13.jpg : NGUYỄN NGỌC BÌNI
+result/Tessseract_dob_13.jpg :   2301-1998
+result/Tessseract_id_14.jpg : 174506425
+result/Tessseract_name_14.jpg : NGUYỄN NGỌC BÌNH
+result/Tessseract_dob_14.jpg : 23-01-1998
